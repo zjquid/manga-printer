@@ -4,8 +4,11 @@
 * What is this?
 This is a program that sorts pages from multiple chapters into a correct printing order so that the sheets can be bound easily. \\
 
+Currently only supported on Linux, although I will test with macOS once I have a finished program. \\
+
+Made for fun and to learn Perl. \\
 * Installation
-Simply clone the repo and move the "insert title of main perl script here" to the directory of the series, i.e. the folder that has all the chapter folders in it, then run the program:
+Simply clone the repo and move the "insert title of main perl script here" to the directory of the series, i.e. the folder that has all the chapter folders in it, then run the program by typing the following in the terminal:
 #+begin_src shell
   $ ./"title of script".pl
 #+end_src
